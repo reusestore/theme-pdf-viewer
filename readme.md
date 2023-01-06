@@ -1,6 +1,6 @@
 # 3d PDF viewer
 
-<a href="https://expressd3v.github.io/3d-pdf/"> Demo </a>
+<a href="https://reusestore.github.io/theme-pdf-viewer/"> Demo </a>
 
 #### User Interface
 ![image](screen.png)
